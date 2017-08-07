@@ -48,9 +48,10 @@ Passing **true** to the above method will use input from hackerrank. Passing **f
 	}
 ```
 
-### Problems solved so far (8):
+### Problems solved so far (9):
 
 * https://www.hackerrank.com/challenges/ctci-array-left-rotation
+* https://www.hackerrank.com/challenges/ctci-balanced-brackets
 * https://www.hackerrank.com/challenges/ctci-contacts
 * https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 * https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
