@@ -47,3 +47,12 @@ Passing **true** to the above method will use input from hackerrank. Passing **f
 		}
 	}
 ```
+
+### Problems solved so far (6):
+
+* https://www.hackerrank.com/challenges/ctci_array_left_rotation
+* https://www.hackerrank.com/challenges/ctci_contacts
+* https://www.hackerrank.com/challenges/ctci_is_binary_search_tree
+* https://www.hackerrank.com/challenges/ctci_linked_list_cycle
+* https://www.hackerrank.com/challenges/ctci_making_anagrams
+* https://www.hackerrank.com/challenges/ctci_ransom_code
