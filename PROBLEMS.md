@@ -1,9 +1,10 @@
-# List of approved problems (15):
+# List of approved problems (16):
 
 Problem | URL
 ------- | ---
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | https://www.hackerrank.com/challenges/ctci-array-left-rotation
 [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) | https://www.hackerrank.com/challenges/ctci-balanced-brackets
+[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach) | (https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach)
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) | https://www.hackerrank.com/challenges/ctci-bubble-sort
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) | https://www.hackerrank.com/challenges/ctci-comparator-sorting
 [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) | https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid
