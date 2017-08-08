@@ -15,13 +15,13 @@ Use the following method to switch between inputs:
 ```java
 	public BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
-
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {
-			return new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(DIR_SEP
-					+ getClass().getPackage().getName().replaceAll("\\.", DIR_SEP) + DIR_SEP + "input.txt")));
+			return new BufferedReader(new InputStreamReader(
+				getClass().getResourceAsStream(DIR_SEP +
+					getClass().getPackage().getName().replaceAll(
+						"\\.", DIR_SEP) + DIR_SEP + "input.txt")));
 		}
 	}
 ```
@@ -38,25 +38,17 @@ Passing **true** to the above method will use input from hackerrank. Passing **f
 	}
 	public static BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {
-			return new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(DIR_SEP
-					+ getClass().getPackage().getName().replaceAll("\\.", DIR_SEP) + DIR_SEP + "input.txt")));
+			return new BufferedReader(new InputStreamReader(
+				getClass().getResourceAsStream(DIR_SEP +
+					getClass().getPackage().getName().replaceAll(
+						"\\.", DIR_SEP) + DIR_SEP + "input.txt")));
 		}
 	}
 ```
 
-### Problems solved so far (9):
+### List of solved problems
 
-* https://www.hackerrank.com/challenges/ctci-array-left-rotation
-* https://www.hackerrank.com/challenges/ctci-balanced-brackets
-* https://www.hackerrank.com/challenges/ctci-contacts
-* https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
-* https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
-* https://www.hackerrank.com/challenges/ctci-linked-list-cycle
-* https://www.hackerrank.com/challenges/ctci-lonely-integer
-* https://www.hackerrank.com/challenges/ctci-making-anagrams
-* https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
-* https://www.hackerrank.com/challenges/ctci-ransom-code
+[See the list](PROBLEMS.md) of solved problems.
