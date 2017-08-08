@@ -1,4 +1,4 @@
-# List of approved problems (13):
+# List of approved problems (14):
 
 Problem | URL
 ------- | ---
@@ -9,6 +9,7 @@ Problem | URL
 [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) | https://www.hackerrank.com/challenges/ctci-contacts
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) | https://www.hackerrank.com/challenges/ctci-find-the-running-median
+[Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor) | https://www.hackerrank.com/challenges/ctci-ice-cream-parlor
 [Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree) | https://www.hackerrank.com/challenges/ctci-is-binary-search-tree
 [Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle) | https://www.hackerrank.com/challenges/ctci-linked-list-cycle
 [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer) | https://www.hackerrank.com/challenges/ctci-lonely-integer
