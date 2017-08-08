@@ -1,4 +1,4 @@
-# List of approved problems (10):
+# List of approved problems (12):
 
 Problem | URL
 ------- | ---
