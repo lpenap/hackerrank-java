@@ -5,7 +5,7 @@ Problem | URL
 [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | https://www.hackerrank.com/challenges/ctci-array-left-rotation
 [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) | https://www.hackerrank.com/challenges/ctci-balanced-brackets
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) | https://www.hackerrank.com/challenges/ctci-bubble-sort
-[](https://www.hackerrank.com/challenges/ctci-comparator-sorting) | https://www.hackerrank.com/challenges/ctci-comparator-sorting
+[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) | https://www.hackerrank.com/challenges/ctci-comparator-sorting
 [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) | https://www.hackerrank.com/challenges/ctci-contacts
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) | https://www.hackerrank.com/challenges/ctci-find-the-running-median
