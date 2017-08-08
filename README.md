@@ -58,4 +58,5 @@ Passing **true** to the above method will use input from hackerrank. Passing **f
 * https://www.hackerrank.com/challenges/ctci-linked-list-cycle
 * https://www.hackerrank.com/challenges/ctci-lonely-integer
 * https://www.hackerrank.com/challenges/ctci-making-anagrams
+* https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 * https://www.hackerrank.com/challenges/ctci-ransom-code
