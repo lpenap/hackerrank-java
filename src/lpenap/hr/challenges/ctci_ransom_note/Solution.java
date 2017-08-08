@@ -9,10 +9,10 @@ import java.util.Scanner;
  * Solution order: O(n) Problem statement:
  * https://www.hackerrank.com/challenges/ctci-ransom-note .
  * 
- * Solution approach: Create a hash to keep count of magazine
- * words. Then substract each word found on the hash form the
- * ransom word. If all the words from the ransom note can
- * be decremented from the hash, then the answer is Yes.
+ * Solution approach: Create a hash to keep count of magazine words. Then
+ * substract each word found on the hash form the ransom word. If all the words
+ * from the ransom note can be decremented from the hash, then the answer is
+ * Yes.
  * 
  * @author lpenap
  *
@@ -33,7 +33,7 @@ public class Solution {
 			}
 			magazine.put(word, count);
 		}
-		
+
 		boolean canWriteRansom = true;
 		for (int ransom_i = 0; ransom_i < n; ransom_i++) {
 			String word = in.next();
@@ -54,6 +54,7 @@ public class Solution {
 		} else {
 			System.out.println("No");
 		}
+		in.close();
 	}
 
 	public static void main(String[] args) {
@@ -63,8 +64,6 @@ public class Solution {
 
 	public BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
-
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {

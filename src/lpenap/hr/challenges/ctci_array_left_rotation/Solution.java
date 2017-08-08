@@ -11,8 +11,8 @@ import java.util.Scanner;
  * Solution order: O(n) Problem statement:
  * https://www.hackerrank.com/challenges/ctci-array-left-rotation .
  * 
- * Solution approach: Make use of the already implemented Collections
- * java API to rotate to the right the equivalent amount of times.
+ * Solution approach: Make use of the already implemented Collections java API
+ * to rotate to the right the equivalent amount of times.
  * 
  * @author lpenap
  *
@@ -37,6 +37,7 @@ public class Solution {
 		for (int a_i = 0; a_i < n; a_i++) {
 			myList.add(in.nextInt());
 		}
+		in.close();
 		Collections.rotate(myList, n - k);
 		printArray(myList, n);
 	}
@@ -48,8 +49,6 @@ public class Solution {
 
 	public BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
-
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {

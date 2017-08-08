@@ -10,9 +10,9 @@ import java.util.Scanner;
  * Solution order: O(n) . Problem statement:
  * https://www.hackerrank.com/challenges/ctci-making-anagrams
  * 
- * Solution approach: Maintain a map with character counts,
- * adding while circling through the first string, and subtracting
- * while circling through the second string.
+ * Solution approach: Maintain a map with character counts, adding while
+ * circling through the first string, and subtracting while circling through the
+ * second string.
  * 
  * @author lpenap
  *
@@ -54,6 +54,7 @@ public class Solution {
 		String a = in.next();
 		String b = in.next();
 		System.out.println(numberNeeded(a, b));
+		in.close();
 	}
 
 	public static void main(String[] args) {
@@ -63,8 +64,6 @@ public class Solution {
 
 	public BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
-
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {

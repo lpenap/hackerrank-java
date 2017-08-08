@@ -36,7 +36,7 @@ public class Solution {
 				findContact(prefixes, contact);
 			}
 		}
-
+		in.close();
 	}
 
 	public void addContact(HashMap<String, Integer> map, String name) {
@@ -61,8 +61,6 @@ public class Solution {
 
 	public BufferedReader inputFromHackerrank(boolean fromHackerrank) {
 		String DIR_SEP = "/";
-		BufferedReader br = null;
-
 		if (fromHackerrank) {
 			return new BufferedReader(new InputStreamReader(System.in));
 		} else {
