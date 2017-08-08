@@ -1,4 +1,4 @@
-# List of approved problems (14):
+# List of approved problems (15):
 
 Problem | URL
 ------- | ---
@@ -6,6 +6,7 @@ Problem | URL
 [Stacks: Balanced Brackets](https://www.hackerrank.com/challenges/ctci-balanced-brackets) | https://www.hackerrank.com/challenges/ctci-balanced-brackets
 [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort) | https://www.hackerrank.com/challenges/ctci-bubble-sort
 [Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting) | https://www.hackerrank.com/challenges/ctci-comparator-sorting
+[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid) | https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid
 [Tries: Contacts](https://www.hackerrank.com/challenges/ctci-contacts) | https://www.hackerrank.com/challenges/ctci-contacts
 [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers) | https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 [Heaps: Find the Running Median](https://www.hackerrank.com/challenges/ctci-find-the-running-median) | https://www.hackerrank.com/challenges/ctci-find-the-running-median
